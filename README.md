@@ -25,7 +25,7 @@ ____________________________________
 
 - Pokemon Project
 
-- Miner Travel
+- Vacation Planner
 ____________________________________
 
 📍 El Paso, Texas
