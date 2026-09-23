@@ -7,6 +7,8 @@ ____________________________________
 
 - Software Engineering
 
+- Project development
+
 - Cybersecurity
 
 - Artificial Intelligence
@@ -15,6 +17,8 @@ ____________________________________
 🌱 Currently learning:
 
 - Java
+
+- Python
 
 - Data Structures
 
@@ -26,6 +30,8 @@ ____________________________________
 - Pokemon Project
 
 - Vacation Planner
+
+- Personal Internship Organization Platform (In Progress)
 ____________________________________
 
 📍 El Paso, Texas
